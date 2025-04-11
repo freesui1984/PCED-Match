@@ -4,14 +4,14 @@ This project realized the method of homogenize color of 2016 image reference 201
 
 ## Paper
 Principal Color Extraction and Decomposition for Enhanced Remote Sensing Image Homogenization <br />
-Yu-Shun Zhao and Yi Sui <br />The Visual Computer.
+Yu-Shun Zhao and Yi Sui <br />Measurement Science and Technology.
 
 Please cite our paper if you find it useful for your research.
 
 ```
 @article{PCED_Match_2018,
   author = {Y.-S. Zhao and Y Sui},
-  booktitle = {The Visual Computer},
+  booktitle = {Measurement Science and Technology},
   title = {Principal Color Extraction and Decomposition for Enhanced Remote Sensing Image Homogenization},
   year = {2025}
 }

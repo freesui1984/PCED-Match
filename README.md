@@ -31,7 +31,7 @@ Please cite our paper if you find it useful for your research.
 * Clone this repo
 ```
 git clone https://github.com/freesui1984/PCED-Match
-cd PCED-master
+cd PCED-Match
 ```
 ## Dataset
 * Download the [Places365- Standard Dataset](https://paperswithcode.com/dataset/places365) as training dataset, crop it to a 256 by 256 pixel image without overlap, and put them in the `dataset/val` folder

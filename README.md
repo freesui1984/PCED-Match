@@ -4,13 +4,13 @@ This project realized the method of homogenize color of 2016 image reference 201
 
 ## Paper
 Principal Color Extraction and Decomposition for Enhanced Remote Sensing Image Homogenization <br />
-Yu-Shun Zhao and Yi Sui <br />Measurement Science and Technology.
+Yushun Zhao and Yi Sui <br />Measurement Science and Technology.
 
 Please cite our paper if you find it useful for your research.
 
 ```
-@article{PCED_Match_2018,
-  author = {Y.-S. Zhao and Y Sui},
+@article{PCED_Match_2025,
+  author = {Yushun Zhao and Yi Sui},
   booktitle = {Measurement Science and Technology},
   title = {Principal Color Extraction and Decomposition for Enhanced Remote Sensing Image Homogenization},
   year = {2025}
@@ -30,7 +30,7 @@ Please cite our paper if you find it useful for your research.
 * PyTorch 1.12 with Python 3.7 and CUDA 11.3
 * Clone this repo
 ```
-git clone https://github.com/zhaoyushun1023/PCED-Match
+git clone https://github.com/freesui1984/PCED-Match
 cd PCED-master
 ```
 ## Dataset

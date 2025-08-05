@@ -1,6 +1,6 @@
 # Principal Color Extraction and Decomposition for Enhanced Remote Sensing Image Homogenization
 
-This project realized the method of homogenize color of 2016 image reference 2012 image in Building Change Detection Dataset
+This project realized the method of homogenize color of 2016 image reference 2012 image in WHU Building Dataset and the city of chicago image reference the city of vienna image in Inria Aerial Image Labeling Dataset
 
 ## Paper
 Principal Color Extraction and Decomposition for Enhanced Remote Sensing Image Homogenization <br />
@@ -11,7 +11,6 @@ Please cite our paper if you find it useful for your research.
 ```
 @article{PCED_Match_2025,
   author = {Yushun Zhao and Yi Sui},
-  booktitle = {Measurement Science and Technology},
   title = {Principal Color Extraction and Decomposition for Enhanced Remote Sensing Image Homogenization},
   year = {2025}
 }

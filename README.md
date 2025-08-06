@@ -35,7 +35,9 @@ cd PCED-Match
 ## Dataset
 * Download the [Places365- Standard Dataset](https://paperswithcode.com/dataset/places365) as training dataset, crop it to a 256 by 256 pixel image without overlap, and put them in the `dataset/val` folder
 
-* Download the [Building Change Detection Dataset](http://gpcv.whu.edu.cn/data/Building%20change%20detection%20dataset_add.zip) as test dataset, crop it to a 512 by 512 pixel image without overlap, and put it in the `dataset/building_change_detection` folder
+* Download the [WHU Building Dataset](http://gpcv.whu.edu.cn/data/building_dataset.html) as test dataset 1, crop it to a 512 by 512 pixel image without overlap, and put it in the `dataset/building_change_detection` folder
+
+*  Download the [Inria Aerial Image Labeling Dataset](https://project.inria.fr/aerialimagelabeling/files/) as test dataset 2, crop it to a 512 by 512 pixel image without overlap, and put it in the `dataset/inria` folder
 
 ## Train
 * Configure the pyTorch virtual environment

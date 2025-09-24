@@ -17,12 +17,19 @@ Please cite our paper if you find it useful for your research.
 ```
 
 ## Experiment Results
-
+### Visual effect
 ![](figure/figure1.png)
 
-## Quantitative Reuslts
-
 ![](figure/figure2.png)
+
+### Comparison of image quality metrics
+
+![](figure/figure3.png)
+![](figure/figure4.png)
+
+### Comparison of Segmentation Results
+![](figure/figure5.png)
+![](figure/figure6.png)
 
 ## Installation
 * Install PyTorch from http://pytorch.org with Python 3.7 and CUDA11.3
